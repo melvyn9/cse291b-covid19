@@ -1,0 +1,16 @@
+# Data files - too large for GitHub
+data/raw/
+*.mzTab
+*.tsv
+*.zip
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+*.egg-info/
