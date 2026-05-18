@@ -8,4 +8,4 @@ This project is formulated as a supervised multi-class classification problem us
 1. Melvyn Tan
 2. Viroopaksh Chekuri
 3. Kailey Wong
-4. Matt Yang
+4. Matthew Yang
