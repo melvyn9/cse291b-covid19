@@ -1,7 +1,12 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python -c ' *)"
+      "Bash(python -c ' *)",
+      "Bash(pip install *)",
+      "Bash(python -c \"import cupy as cp; print\\('CuPy', cp.__version__\\); a = cp.array\\([1.0, 2.0, 3.0]\\); print\\('GPU test:', cp.mean\\(a\\)\\)\")",
+      "Bash(python -c \"import cupy as cp; print\\('CuPy', cp.__version__\\); a = cp.array\\([1.0, 2.0, 3.0]\\); print\\('GPU test OK:', float\\(cp.mean\\(a\\)\\)\\)\")",
+      "Bash(python -c \"import json; nb=json.load\\(open\\('modeling4.ipynb'\\)\\); print\\(len\\(nb['cells']\\), 'cells'\\); print\\([c['id'] for c in nb['cells']]\\)\")",
+      "Bash(python write_nb.py)"
     ]
   }
 }
