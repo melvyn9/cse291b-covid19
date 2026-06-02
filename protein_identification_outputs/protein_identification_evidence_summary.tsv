@@ -1,0 +1,3 @@
+evidence_category	count	fraction
+Weak/ambiguous: peptide maps to multiple proteins	39	0.78
+Strong: unique mapping + multiple other peptides	11	0.22
