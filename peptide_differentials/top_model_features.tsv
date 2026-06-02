@@ -1,0 +1,21 @@
+Peptide	coefficient	abs_coefficient	model_direction
+S.[304.207]IL(R,-91.094)VAAEDW(K,304.207).K	-0.2918710205061134	0.2918710205061134	Higher in non-severe by model
+R.{290.173}[304.207]EGT(C,57.021)PEAPTDE(C,57.021)(K,304.207)PV(K,304.207).W	-0.24064205146383832	0.24064205146383832	Higher in non-severe by model
+R.[304.207]FFGHGAED(S,304.212)LADQAANEWGR.S	0.17661364067200716	0.17661364067200716	Higher in severe by model
+D.[304.207]EENLTQENQDR.G	0.16389076429352886	0.16389076429352886	Higher in severe by model
+R.[216.121]ETYGEMAD(C,57.021)(C,57.021)A(K,304.207).Q	-0.1423354755662016	0.1423354755662016	Higher in non-severe by model
+R.[304.207]GDAV(C,57.021)TESG(W,31.997)RPLPS(C,57.021)EE(K,304.207).S	0.040223664140356344	0.040223664140356344	Higher in severe by model
+K.[304.207]LVNEVTEFA(K,334.302)T(C,57.021).V	0.0	0.0	Higher in non-severe by model
+R.[304.207]YVGGQE(H,52.917)FAHLLILR.D	0.0	0.0	Higher in non-severe by model
+R.{37.944}[304.207]YVGGQEHFAHLLILR.D	0.0	0.0	Higher in non-severe by model
+R.[304.207]FFGHGAEDSLADQAANEWG.R	0.0	0.0	Higher in non-severe by model
+R.[304.207]SDV(M,279.162)YTDW(K,304.207).K	0.0	0.0	Higher in non-severe by model
+K.[304.207](A,291.169)EFAEVS(K,304.207).L	0.0	0.0	Higher in non-severe by model
+R.[304.207]RFEQLELR.P	0.0	0.0	Higher in non-severe by model
+K.[304.207]ADD(K,304.207)ET(C,57.021)FA(E,11.011)EG(K,304.207)(K,304.207).L	0.0	0.0	Higher in non-severe by model
+T.[304.207](K,294.137)GPSVFPLAP(C,57.021)SR.S	0.0	0.0	Higher in non-severe by model
+R.[304.207]FFGHGAED(S,207.144)LADQAANEWGR.S	0.0	0.0	Higher in non-severe by model
+F.[304.207]FTVLQDVPVR.D	0.0	0.0	Higher in non-severe by model
+K.[304.207]ALFVSEE(E,37.951)(K,304.207)(K,304.207).L	0.0	0.0	Higher in non-severe by model
+D.[304.207]EMPSPTFLTQV(K,304.207).E	0.0	0.0	Higher in non-severe by model
+R.[304.207](L,172.089)TGRGAEDSLADQAAN(K,304.207).W	0.0	0.0	Higher in non-severe by model

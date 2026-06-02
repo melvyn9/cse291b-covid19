@@ -1,0 +1,5 @@
+Model-ranked peptide #1 (S.[304.207]IL(R,-91.094)VAAEDW(K,304.207).K) had higher median intensity in non-severe (median log2FC = -0.577; Mann-Whitney p = 0.000696; FDR = 1). The maximum group-specific missingness was 40.0%, classified as moderate missingness.
+
+Model-ranked peptide #2 (R.{290.173}[304.207]EGT(C,57.021)PEAPTDE(C,57.021)(K,304.207)PV(K,304.207).W) had higher median intensity in non-severe (median log2FC = -0.693; Mann-Whitney p = 4.15e-05; FDR = 0.833). The maximum group-specific missingness was 0.0%, classified as low missingness.
+
+Model-ranked peptide #6 (R.[304.207]GDAV(C,57.021)TESG(W,31.997)RPLPS(C,57.021)EE(K,304.207).S) had higher median intensity in severe (median log2FC = 0.640; Mann-Whitney p = 0.00111; FDR = 1). The maximum group-specific missingness was 0.0%, classified as low missingness.
