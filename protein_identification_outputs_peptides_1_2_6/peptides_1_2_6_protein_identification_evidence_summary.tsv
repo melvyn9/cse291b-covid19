@@ -1,0 +1,3 @@
+evidence_category	count	fraction
+Weak/ambiguous: maps to multiple proteins	2	0.6666666666666666
+Strong: unique mapping + other peptides from same protein	1	0.3333333333333333
