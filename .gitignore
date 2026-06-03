@@ -1,10 +1,11 @@
 # Data files - too large for GitHub
 data/raw/
+data/*
 *.mzTab
 /*.tsv
 *.zip
 *.csv
-
+model_evaluation_results/*
 # Python
 __pycache__/
 *.pyc
@@ -13,6 +14,7 @@ __pycache__/
 # Environment
 .env
 venv/
+.venv/
 *.egg-info/
 
 .DS_Store
