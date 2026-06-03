@@ -1,0 +1,23 @@
+Protein-level differential abundance was evaluated by examining whether the peptide-level abundance patterns observed for the model-selected variants were consistent across other peptides mapping to the same proteins. For each candidate protein, all peptide variants mapped to that protein were retrieved from the raw Variants TMT annotation table. Peptides that mapped uniquely to a single protein were used for the majority-rule assessment, while peptides mapping to multiple proteins were treated cautiously because their abundance signal cannot be assigned confidently to one protein.
+
+For each uniquely mapped peptide, Severe and Non-severe intensity distributions were compared using the Mann–Whitney U test. Group medians, log2 fold changes, missing-value percentages, and direction of abundance change were computed. A protein-level effect was assigned only when a majority of uniquely mapped, testable peptides from that protein showed significant differential abundance in the same direction. If only the model-selected peptide was significant, or if significant peptides did not form a majority, the effect was interpreted as peptide-level or variant-level rather than protein-level.
+
+For IGHA1_HUMAN, 0 uniquely mapping peptides were testable. 0 were significant at raw p < 0.05. The majority-rule direction was insufficient_unique_testable_peptides with majority fraction N/A. This was classified as: inconclusive. target peptide maps to multiple proteins; protein-level assignment is ambiguous.
+
+For IGHA2_HUMAN, 1 uniquely mapping peptides were testable. 0 were significant at raw p < 0.05. The majority-rule direction was no_consistent_differential_abundance with majority fraction 0.0. This was classified as: no protein-level evidence. target peptide maps to multiple proteins; protein-level assignment is ambiguous.
+
+For TRFE_HUMAN, 878 uniquely mapping peptides were testable. 11 were significant at raw p < 0.05. The majority-rule direction was mixed_or_minority_signal with majority fraction 0.010250569476082005. This was classified as: peptide-level effect. target peptide maps uniquely to this protein.
+
+For CFAH_HUMAN, 0 uniquely mapping peptides were testable. 0 were significant at raw p < 0.05. The majority-rule direction was insufficient_unique_testable_peptides with majority fraction N/A. This was classified as: inconclusive. target peptide maps to multiple proteins; protein-level assignment is ambiguous.
+
+For CFAH_HUMAN, 242 uniquely mapping peptides were testable. 0 were significant at raw p < 0.05. The majority-rule direction was no_consistent_differential_abundance with majority fraction 0.0. This was classified as: no protein-level evidence. target peptide maps to multiple proteins; protein-level assignment is ambiguous.
+
+For A0A0D9SG88_HUMAN, 0 uniquely mapping peptides were testable. 0 were significant at raw p < 0.05. The majority-rule direction was insufficient_unique_testable_peptides with majority fraction N/A. This was classified as: inconclusive. target peptide maps to multiple proteins; protein-level assignment is ambiguous.
+
+For A0A0G2JMB2_HUMAN, 4 uniquely mapping peptides were testable. 0 were significant at raw p < 0.05. The majority-rule direction was no_consistent_differential_abundance with majority fraction 0.0. This was classified as: no protein-level evidence. target peptide maps to multiple proteins; protein-level assignment is ambiguous.
+
+For A0A286YEY1_HUMAN, 0 uniquely mapping peptides were testable. 0 were significant at raw p < 0.05. The majority-rule direction was insufficient_unique_testable_peptides with majority fraction N/A. This was classified as: inconclusive. target peptide maps to multiple proteins; protein-level assignment is ambiguous.
+
+For A0A286YEY5_HUMAN, 0 uniquely mapping peptides were testable. 0 were significant at raw p < 0.05. The majority-rule direction was insufficient_unique_testable_peptides with majority fraction N/A. This was classified as: inconclusive. target peptide maps to multiple proteins; protein-level assignment is ambiguous.
+
+For Q5TFM2_HUMAN, 0 uniquely mapping peptides were testable. 0 were significant at raw p < 0.05. The majority-rule direction was insufficient_unique_testable_peptides with majority fraction N/A. This was classified as: inconclusive. target peptide maps to multiple proteins; protein-level assignment is ambiguous.
